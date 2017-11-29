@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: BindMouselook
+## Version: @project-version@
+## Author: Xodiv-Nagrand
+## Email: mib@post.com
+
+KeyBindingStrings.lua

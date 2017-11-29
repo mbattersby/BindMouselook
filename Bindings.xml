@@ -1,0 +1,17 @@
+<!--
+
+  BindMouselook/Bindings.xml
+
+  Copyright 2011-2017 Mike Battersby
+
+ -->
+
+<Bindings>
+    <Binding name="TOGGLE_MOUSELOOK" header="BINDMOUSELOOK_TITLE" category="ADDONS">
+        if IsMouselooking() then
+            MouselookStop()
+        else
+            MouselookStart()
+        end
+    </Binding>
+</Bindings> 
